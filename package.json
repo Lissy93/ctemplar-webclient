@@ -63,7 +63,7 @@
     "rxjs": "^6.6.3",
     "simple-keyboard": "^2.30.9",
     "tslib": "^1.11.1",
-    "xss": "^1.0.8",
+    "xss": "^1.0.10",
     "zone.js": "^0.10.2"
   },
   "devDependencies": {
